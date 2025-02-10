@@ -30,9 +30,10 @@ Below is a list of the assignments included in this repository:
    - **Problem Statement:** Write a C program that:
      - Accepts two integers from the user.
      - Prints their sum, difference, product, and quotient.
-   - **Screenshot of Implementation:** ![Screenshot 1](![IP1](https://github.com/user-attachments/assets/21d83a73-5668-4110-8454-ab554c7c641c)
+   - **Screenshot of Implementation:** ![Screenshot 1](![IP1](https://github.com/user-attachments/assets/972599a3-986d-470e-a622-3a853e208140)
 )
-   - **Output:** ![Output 1](![OP1](https://github.com/user-attachments/assets/686d8edf-2278-4a80-aaef-e0861290dd4b))
+   - **Output:** ![Output 1](![OP1](https://github.com/user-attachments/assets/30a43a0a-5819-4273-a78e-a62457599b55)
+)
 
 2. **Assignment 2: Array Manipulation - Sorting**
    - **Problem Statement:** Write a C program to:
